@@ -76,12 +76,7 @@ public class FlightBookingService  {
 	}
 
 	
-	//public String updateFlight(String fid, FareDetails updatedFlight) {
-//		if (fareRepository.selectFlightById(fid).size() == 0) {
-//			throw new NoSuchElementException("flight with this ID not exist");
-//		}
-//        return "you should update at least one field";	
-		
+	
 	}
 	
 
